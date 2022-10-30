@@ -9,4 +9,3 @@
 * Задание 2.2 Жесткое сравнение в PHP
 * Внедрение HTML-разметки и CSS-стилей
 
-[GitHub Pages task11_7](https://vechernyayahalyna.github.io/task11_7/)
